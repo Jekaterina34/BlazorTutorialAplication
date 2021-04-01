@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DWsjq65rzyoy/fb8B9Tv/Jx0OwFFUADDKzC/ZCxoK4y1CrLOs42fQ6usosNBxIUB1MxhW6pAPOfdCxXRHqSzAg==",
+  "dgSpecHash": "DKxU/KQnmjIzagTkYNcq3qAsZNiPJqT5FyEhMh9Joa3rUscIvdNhUPI6XYhB5051ny8cgnf639Q8BeqDI2UXAA==",
   "success": true,
   "projectFilePath": "C:\\DEV\\Blazor Tutorial\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.4\\microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.4\\microsoft.entityframeworkcore.relational.5.0.4.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.4\\microsoft.entityframeworkcore.sqlserver.5.0.4.nupkg.sha512",
+    "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.4\\microsoft.entityframeworkcore.tools.5.0.4.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
