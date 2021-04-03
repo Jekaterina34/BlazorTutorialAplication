@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "baQDMjbQPlnptf4t6q9WORmhaDGBC1auErH/FpZv0A82E4TaSEdCGIUiWBT+jZdj1nlGeETyMf5Gr0Q+hvvk5Q==",
+  "dgSpecHash": "aaGLlg951zxYJI6WeMxuOWuatNKQp8HKguwZsPMd8BvXV7jeMdmrycYNcK0MEnjJWMDdCf5ZM6oMard2tZ/fmg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\Blazor Tutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jekat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\jekat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jekat\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
