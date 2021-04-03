@@ -54,8 +54,7 @@ namespace EmployeeManagement.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Employee>>
-            CreateEmployee([FromBody]Employee employee)
+        public async Task<ActionResult<Employee>> CreateEmployee(Employee employee)
         {
             try
             {
@@ -66,7 +65,7 @@ namespace EmployeeManagement.Api.Controllers
 
                 var emp = employeeRepository.GetEmployeeByEmail(employee.Email);
 
-                if(emp !=null)
+                if (emp != null)
                 {
                     ModelState.AddModelError("email", "Employee email already in use");
                     return BadRequest(ModelState);
@@ -74,13 +73,39 @@ namespace EmployeeManagement.Api.Controllers
 
                 var createdEmployee = await employeeRepository.AddEmployee(employee);
 
-                return CreatedAtAction(nameof(GetEmployee),
-                    new { id = createdEmployee.EmployeeId }, createdEmployee);
+                return CreatedAtAction(nameof(GetEmployee), new { id = createdEmployee.EmployeeId },
+                    createdEmployee);
             }
             catch (Exception)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError,
-                    "Error creating new employee record");
+                    "Error creating employee");
+            }
+        }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<Employee>> UpdateEmployee(int id, Employee employee)
+        {
+            try
+            {
+                if (id != employee.EmployeeId)
+                {
+                    return BadRequest("Employee ID mismatch");
+                }
+
+                var employeeToUpdate = await employeeRepository.GetEmployee(id);
+
+                if (employeeToUpdate == null)
+                {
+                    return NotFound($"Employee with Id = {id} not found");
+                }
+
+                return await employeeRepository.UpdateEmployee(employee);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                    "Error updating data");
             }
         }
     }
