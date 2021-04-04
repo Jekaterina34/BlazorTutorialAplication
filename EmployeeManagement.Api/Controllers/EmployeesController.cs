@@ -78,6 +78,7 @@ namespace EmployeeManagement.Api.Controllers
         [HttpPost]
         public async Task<ActionResult<Employee>> CreateEmployee(Employee employee)
         {
+
             try
             {
                 if (employee == null)

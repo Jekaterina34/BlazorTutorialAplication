@@ -60,3 +60,5 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.EntityF
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EmployeeDetails.razor.g.cs
