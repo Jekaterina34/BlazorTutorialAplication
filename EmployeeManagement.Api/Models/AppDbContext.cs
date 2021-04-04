@@ -29,14 +29,15 @@ namespace EmployeeManagement.Api.Models
                 new Department { DepartmentId = 3, DepartmentName = "Payroll" });
             modelBuilder.Entity<Department>().HasData(
                 new Department { DepartmentId = 4, DepartmentName = "Admin" });
-
             
+
+
             modelBuilder.Entity<Employee>().HasData(new Employee
             {
                 EmployeeId = 1,
                 FirstName = "John",
                 LastName = "Hastings",
-                Email = "David@pragimtech.com",
+                Email = "John@pragimtech.com",
                 DateOfBrith = new DateTime(1980, 10, 5),
                 Gender = Gender.Male,
                 DepartmentId = 1,
@@ -78,6 +79,7 @@ namespace EmployeeManagement.Api.Models
                 DepartmentId = 3,
                 PhotoPath = "images/sara.png"
             });
+
         }
     }
 }

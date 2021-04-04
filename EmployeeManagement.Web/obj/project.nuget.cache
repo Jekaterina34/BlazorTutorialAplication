@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "56JkiKtYRNmxlq/gtzlGMAaLpvBzec7NFfHUmmMNpo92C54xWJ6DIDwZQb4tG0Z9zzIFL+xUCraQUovpQxseHQ==",
+  "dgSpecHash": "LRfQa45LSjoxclj5wm6Aviabc4lscg7q0OBJQYC8Uul6pPaT3bgyfYDRiKvLfcmRoeKbBbje0ptS9AUC9RNCeQ==",
   "success": true,
   "projectFilePath": "C:\\DEV\\Blazor Tutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jekat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\jekat\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
@@ -23,7 +24,8 @@
     "C:\\Users\\jekat\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\jekat\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\jekat\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+    "C:\\Users\\jekat\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\jekat\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
