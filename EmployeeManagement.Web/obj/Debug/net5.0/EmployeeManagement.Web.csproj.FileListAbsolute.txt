@@ -62,3 +62,5 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\System.Diagnostic
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EmployeeDetails.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\DatabindingDemo.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DatabindingDemo.razor.g.cs
