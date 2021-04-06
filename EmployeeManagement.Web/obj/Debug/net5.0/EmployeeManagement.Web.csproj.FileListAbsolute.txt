@@ -66,3 +66,5 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DatabindingDemo.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DisplayEmployee.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmpoyee.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EditEmpoyee.razor.g.cs
