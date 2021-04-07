@@ -70,3 +70,4 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EditEmpoyee.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\PragimTech.Components.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\PragimTech.Components.pdb
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
