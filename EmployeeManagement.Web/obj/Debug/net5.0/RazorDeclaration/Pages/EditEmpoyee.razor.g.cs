@@ -82,6 +82,13 @@ using EmployeeManagement.Web.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\EditEmpoyee.razor"
+using PragimTech.Components;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/editemployee/{id}")]
     public partial class EditEmpoyee : EditEmployeeBase
     {

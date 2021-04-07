@@ -68,3 +68,5 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DisplayEmployee.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmpoyee.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EditEmpoyee.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\PragimTech.Components.dll
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\PragimTech.Components.pdb

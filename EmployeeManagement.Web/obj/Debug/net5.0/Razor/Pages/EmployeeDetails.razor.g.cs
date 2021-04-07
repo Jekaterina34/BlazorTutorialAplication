@@ -79,6 +79,13 @@ using EmployeeManagement.Web.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\_Imports.razor"
+using PragimTech.Components;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/employeedetails/{id}")]
     [Microsoft.AspNetCore.Components.RouteAttribute("/employeedetails")]
     public partial class EmployeeDetails : EmployeeDetailsBase
