@@ -16,7 +16,7 @@ namespace EmployeeManagement.Models
         public string LastName { get; set; }
         [EmailAddress]
         [EmailDomainValidator(AllowedDomain = "pragimtech.com",
-            ErrorMessage = "Only PragimTech.com is allowed")]
+            ErrorMessage = "Only Pragimtech.com is allowed")]
         public string Email { get; set; }
         public DateTime DateOfBrith { get; set; }
         public Gender Gender { get; set; }
