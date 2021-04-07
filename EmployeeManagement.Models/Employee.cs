@@ -8,7 +8,7 @@ namespace EmployeeManagement.Models
     public class Employee
     {
         public int EmployeeId { get; set; }
-        [Required]
+        [Required(ErrorMessage = "FirstName must be provided")]
         [StringLength(100, MinimumLength = 2)]
         public string FirstName { get; set; }
         [Required]
