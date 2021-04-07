@@ -83,8 +83,15 @@ using EmployeeManagement.Web.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\EditEmpoyee.razor"
+#line 11 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\_Imports.razor"
 using PragimTech.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\_Imports.razor"
+using EmployeeManagement.Models;
 
 #line default
 #line hidden
