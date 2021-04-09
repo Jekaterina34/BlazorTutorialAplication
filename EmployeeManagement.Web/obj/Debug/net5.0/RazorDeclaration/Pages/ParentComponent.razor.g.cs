@@ -105,9 +105,10 @@ using EmployeeManagement.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 10 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
+#line 11 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
        
     public string Style { get; set; } = "color:red";
+    public string BorderStyle { get; set; } = "border:1px solid red";
 
 #line default
 #line hidden

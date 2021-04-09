@@ -104,10 +104,13 @@ using EmployeeManagement.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 3 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\GrandChildComponent.razor"
+#line 4 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\GrandChildComponent.razor"
        
-    [CascadingParameter]
+    [CascadingParameter(Name = "ColorStyle")]
     public string ElementStyle { get; set; }
+
+    [CascadingParameter(Name = "BorderStyle")]
+    public string H1Border { get; set; }
 
 #line default
 #line hidden
