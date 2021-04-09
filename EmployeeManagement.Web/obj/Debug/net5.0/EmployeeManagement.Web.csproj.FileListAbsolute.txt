@@ -77,3 +77,5 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\ParentComponent.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\ChildComponent.razor.g.cs
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\ParentComponent.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\GrandChildComponent.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\GrandChildComponent.razor.g.cs

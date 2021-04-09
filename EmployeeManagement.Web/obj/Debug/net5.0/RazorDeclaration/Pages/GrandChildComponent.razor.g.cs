@@ -96,7 +96,7 @@ using EmployeeManagement.Models;
 #line default
 #line hidden
 #nullable disable
-    public partial class ChildComponent : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class GrandChildComponent : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -104,7 +104,7 @@ using EmployeeManagement.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 5 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\ChildComponent.razor"
+#line 3 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\GrandChildComponent.razor"
        
     [CascadingParameter]
     public string ElementStyle { get; set; }

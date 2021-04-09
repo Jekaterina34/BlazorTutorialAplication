@@ -104,6 +104,14 @@ using EmployeeManagement.Models;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 10 "C:\DEV\Blazor Tutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
+       
+    public string Style { get; set; } = "color:red";
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
