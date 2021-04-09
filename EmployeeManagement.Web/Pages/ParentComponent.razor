@@ -6,9 +6,9 @@
 
 <h1 style="@Style">Parent Component Text - @Counter </h1>
 
-<CascadingValue Value="@Counter" Name="Counter">
-    <CascadingValue Value="@Style" Name="ColorStyle">
-        <CascadingValue Value="@BorderStyle" Name="BorderStyle">
+<CascadingValue Value="@Counter" Name="Counter" IsFixed="false">
+    <CascadingValue Value="@Style" Name="ColorStyle" IsFixed="true">
+        <CascadingValue Value="@BorderStyle" Name="BorderStyle" IsFixed="true" >
             <ChildComponent></ChildComponent>
         </CascadingValue>
     </CascadingValue>
