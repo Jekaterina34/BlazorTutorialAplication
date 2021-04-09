@@ -73,3 +73,7 @@ C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\PragimTech.Compon
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\AutoMapper.dll
 C:\DEV\Blazor Tutorial\EmployeeManagement.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\ChildComponent.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\ParentComponent.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\ChildComponent.razor.g.cs
+C:\DEV\Blazor Tutorial\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\ParentComponent.razor.g.cs
